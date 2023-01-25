@@ -7,4 +7,4 @@ circuito para fazer um led astavel
 
 foi usado o LM555.
 
-(deve-se usar o CI555!)
+
